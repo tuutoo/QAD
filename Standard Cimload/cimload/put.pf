@@ -1,0 +1,7 @@
+open mfg03
+user jerryg falcon!1
+as
+lcd "D:\My Documents\Dropbox\Avery China\QAD docs\Progress\cimload"
+cd /home/jerryg
+put G1.csv
+bye

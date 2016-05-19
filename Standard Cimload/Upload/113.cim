@@ -1,0 +1,7070 @@
+@@batchload ppummt.p
+"M2" "MS" "" 
+"0.64516" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "SF" "" 
+"0.092903" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "MAP-68-1020" 
+"14.331026" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FMTC-1020" 
+"17.992011" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FPH-60-1020" 
+"16.19281" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TT2C-86-1020" 
+"11.232007" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "DP-70-1020" 
+"13.879551" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SGY-80-1020" 
+"12.181372" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SCK-950" 
+"14.393609" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BILT-78-1020" 
+"12.493715" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "C1S-73-1020" 
+"13.192226" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "C1S-73-1525" 
+"8.928812" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BILT-78-1525" 
+"8.356452" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SCK-1020" 
+"14.393609" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BG40Y-1020" 
+"15.670461" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BG40-1020" 
+"15.927354" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BG40-1525" 
+"10.863387" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPWH-CM-1020" 
+"22.402524" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "EPET-NTC-1020" 
+"14.060549" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "2MMC-1020" 
+"13.879551" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TSU-22-1020" 
+"44.16221" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "HGP-80-1020" 
+"12.144607" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SGY-80-1525" 
+"8.14754" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPCL-CM-1020" 
+"22.14795" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-PP Silver TC-10" 
+"20.957156" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-Matt Void" 
+"13.72549" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "VAC-85-1020" 
+"11.430219" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "Vacbac-85-1020" 
+"12.181372" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-141" 
+"18.386977" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "2MMS PET-NTC" 
+"13.629509" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "2MMCP-1020" 
+"13.879551" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "C1S-73-940" 
+"13.349449" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SG-65-1020" 
+"14.992458" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSCTNP-85-1020" 
+"11.430219" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BG40Y-1525" 
+"10.863409" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPWH-1020" 
+"21.306329" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TL-SCK60-1020" 
+"16.24183" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "MAP-68-1525" 
+"9.585342" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "2M CLR PET-NTC" 
+"13.921568" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "CLR-40-1020" 
+"24.289215" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-Vac85-FPNG" 
+"11.741081" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-135-NTC" 
+"14.99245" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TT1C-62-1020" 
+"15.7179" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "C2S-130-1020" 
+"7.473604" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TL-PUM60-1020" 
+"16.24183" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-FFPWH-CM-1525" 
+"14.169639" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TL-DSS90-1020" 
+"10.827843" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-White void" 
+"13.72549" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-HS-BILT-78-1020" 
+"11.884265" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "HGP-80-1525" 
+"8.14754" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "OPTLBL-78-1525" 
+"8.22577" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "OPTLBL Ex-78-1020" 
+"12.298333" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "Vac85-FPNG-1020" 
+"11.741078" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "52 HCX-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-VAC85-HS-BILT" 
+"11.331509" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-PET36-1025" 
+"19.490196" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-123" 
+"29.5306" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "VAC86-BILT-HS" 
+"11.331509" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SBM-52-HCX-1020" 
+"18.046477" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "HGP-80-940" 
+"12.144607" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-PETCLR23-1525" 
+"19.108035" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "PP Silver TC-1020" 
+"20.9572" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BILT-HS-81-1020" 
+"12.030985" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BILT-HS-81-1525" 
+"8.046954" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-2MMCP-SAMP-1020" 
+"13.921568" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-VacSMP-80-1020" 
+"12.181372" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-VacRSK-80-1020" 
+"12.181372" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-PE85-1020" 
+"11.464803" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "CLR-35-1020" 
+"27.759103" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-119" 
+"23.425716" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-PP-SILVERSTL-TC" 
+"20.854969" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-VacSTL-80-1020" 
+"12.121951" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-FTYRSTL-1020" 
+"10.540827" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "Boise Jumbo LWR-65" 
+"14.992458" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-124" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-129" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TL-A17-23" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TL-PET-23-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TE60-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-GCX CLR NTC" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-GMDO CLR NTC" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FPNG-80-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTHM-72-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTHM-72-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTHM-78-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTHM-KT58-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTHM-LT431-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTHM-LT531N-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTKN-76-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "SYN-75-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-116" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-138" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-FT75-PSP4" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-FTHM-58" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-FTHM-LB2" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-FTHM-OJ531-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-FTHM-OjiLT431N" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "VELLUM-70-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "PLB-PET23-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "PLB-PET23-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "BG50-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "CCK-87-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "LWR58-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "LWR65-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "LWR65-940" 
+"1.063829" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "LWR74-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "LWR74-940" 
+"1.063829" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-136-NTC" 
+"13.72549" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-137" 
+"22.663018" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-PEK102-ITC-1020" 
+"9.554017" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "1MBC-1020" 
+"29.894419" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "1MMC-1020" 
+"29.894411" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "2M CLR PET-1525" 
+"9.311475" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "35 PPWH-1020" 
+"38.216078" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "EPET-36-NTC-1020" 
+"19.490196" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "EPET-NTC-1525" 
+"9.875803" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPCL-1020" 
+"21.353156" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPCL-1025" 
+"21.353156" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPCL-NTC-1020" 
+"21.590413" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPWH-NTC-1020" 
+"21.590413" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SLVR CH-1020" 
+"13.599439" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TE90-1020" 
+"10.795206" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-144" 
+"13.72549" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-2M GBS PET" 
+"13.921568" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-FFPCL-52NTC" 
+"18.649155" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "CPM-60-1020" 
+"16.19281" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "CPM-70-1020" 
+"13.879551" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FCTHB-85-1020" 
+"11.430219" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FDT N-70-1020" 
+"13.904019" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FDT-70-1020" 
+"13.893557" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSHART-75-1020" 
+"0.012954" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSHART-75-1525" 
+"8.690688" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSHART-75-940" 
+"12.954248" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSM-85-1020" 
+"11.430219" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FTMP-73-1020" 
+"13.309117" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FTYRN-85-1020" 
+"11.430196" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SGWS-80-1020" 
+"12.144607" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "SKP-68-1020" 
+"14.287745" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-Cream-90-1020" 
+"10.827843" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-HGP-85-1020" 
+"11.464821" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-MAP68-ITC-1020" 
+"14.33098" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-PUM-TSU22" 
+"44.295882" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TT2C-86-1525" 
+"7.579107" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "CCK52-940" 
+"20.27414" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "CCK-52-1020" 
+"18.71696" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "CCK67-940" 
+"15.735154" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "HPL40-1020" 
+"16.24183" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "PEK-1020" 
+"10.120506" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "PEK-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TL-16-39GSM" 
+"24.98745" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TL-18-1020" 
+"14.99245" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TL-19-1020" 
+"14.99245" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TL-BGYFY-59-1020" 
+"16.517115" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-LWR58Y-1525" 
+"10.863387" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-LWR97-1020" 
+"10.046492" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPCL-1525" 
+"14.325377" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FFPTH" 
+"21.306372" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TM-113" 
+"13.921568" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "C1S-90-1020" 
+"10.827843" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "C2S-130-940" 
+"7.473604" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FP-75-1020" 
+"12.954248" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FPNG-80-1525" 
+"8.356459" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FS-75-1020" 
+"12.954248" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FS-75-940" 
+"12.954248" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSART-75-1020" 
+"12.967352" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSB-85-1020" 
+"11.430196" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "FSCTNG-85-1020" 
+"11.430196" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "JUMBO ROLL" 
+"12.144117" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "TT1C FACE" 
+"13.879509" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "KG" "BG40TK-1020" 
+"15.670461" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM- PET36" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TL-17-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-103" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "C1S-130-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FFPWH-CM-1525" 
+"0.655737" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TL-06-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "1 MBC-NTC-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "HGP-85-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "POLOCAL" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "BG40(60G)-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-105" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "LWR58" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "LWR65" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "FTYR-92-1020" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "TM-DSTissueTape" 
+"0.980392" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL09010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL11010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL78122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09011" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09070" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11011" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11070" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11610" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11610" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM22280" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM22300" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM63122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM64080" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM64410" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM65241" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM65241E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM68390" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM74450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM74451" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM90550" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM95550" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB2124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB2350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB3220" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC3124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF0601" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF0610" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF1601" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF1601E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF9601" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM74450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM74451" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME7606" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMG5602" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM11080" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM11510" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM11530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM-1237" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1158" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1161" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1222" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-1229" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1236" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1237" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1238" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1244" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1246" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1247" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1266" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1287" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1303" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1317" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1323" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1324" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1334" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1335" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1339 A" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1339 B" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1339 C" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1352" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMF1601-1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TRIAL-F" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TRIAL-FPNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TRIAL-STD" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-1340" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1341" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1355" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1357" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1358" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM58330" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME3124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1272" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME6350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM22122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TL09260" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TL09261" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TL09600" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TLG0470" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM09260" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM35260" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TMD0260" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1242" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1269" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1288" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AG241-TR1" 
+"0.982318" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AG313" 
+"0.982318" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AG357-TR2" 
+"0.982318" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AG358" 
+"0.982318" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89350" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89350E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2030" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2080" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA5220" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALD6240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALD6240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALD6240E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALF6845" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALF6845" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALF6845E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALG1601" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALG1601E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY89240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY89350" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY89350E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYB0123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYD6240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060(GB)" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060(GB)E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060(INT)" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060GB" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM16450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM18450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM18451" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM19220" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM28530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM32060" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM47290" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM60122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM60240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM60450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM72122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM85050" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM86530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM88450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM88480" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89241" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89351" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89480" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89480" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM99450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2030" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2050" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2080" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2451" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2451" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA4530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA5050" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA7080" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0450" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0450E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB5390" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6150" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6241" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6450" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6450E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6480" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6480E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME1530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME4010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMG1601" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMG1601E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY16122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY60240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY89240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYA8601" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYB0123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYB1122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMA2080" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMB0123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LL89350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LLD6350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB0123" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB0123E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB5451" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMD5610" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMD6240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME9530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME9634" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTA2450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTF3601" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTF3601E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM05010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM13010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM89450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1157" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1160" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1165" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1167" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1184" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1204" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1218" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1231" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1239" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1241" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1241A" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1250" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1263" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1265" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1268" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1284" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1286" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1289" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1291" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1293" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1304" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1314" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1315" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1316" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1316" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1325" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1327" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1328" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1336" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1343" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1348" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1359" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALY89350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALY89350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM13060(GB)" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM13060(GB)-IN4" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM13060PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMA2030" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMA2030PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMA2050" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMB0450PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMD6450PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMD6480PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TRIAL-P" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TRIAL-P-1020" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TRIAL-PPNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-lmb0123.1500pnq" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR- ALF6845.1500PN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1290" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1292" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1296" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1297" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-1301" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1311" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1319" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1320" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1332" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1333" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1344" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1346" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1349" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-1350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1353" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1354" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AL89350PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALB0123PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALB0123" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALB0123E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALB6530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM60440" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA4570" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB1122" 
+"1.086956" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BLA4570" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BLB0123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BM13240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BM17123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB0123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB1123" 
+"1.086956" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB1450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB1450C" 
+"1.086956" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB7240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CLB0123" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM13240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM13604" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM39606" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM99450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMB0440" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMB1122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMD4607" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LLB0125" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SL99530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SLB8530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SM13240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SM17122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SMB1450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SMB1450C" 
+"1.086956" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SMB7240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1232" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1234" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1235" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1243" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1254" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1271" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1275" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1278" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMB0122PNQ IN4" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR -1300PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1295" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1300" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1322" 
+"1.086956" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-1331" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1351" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM21450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM21450(INT)" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM21480" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM35350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM41122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89400" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89400" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM99122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA1450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD0241" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6400" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BLB0605" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1219" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1264" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM21450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1360" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL17124" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL17124E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYD6845" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM01540" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17010-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17050" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17050-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17090" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17090-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17124" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17124E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM25050" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM44530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM52440" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM76530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB4290" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB4350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC4530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5050" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5090" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME0124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY17010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY17124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYC5124" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BL17122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BL17122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM17124" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM17124E" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME8631" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME8631" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME8631E" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SL17122" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM98260" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1203" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1230" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1305" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1342" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALY17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17010-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17050-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17090-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17240-OR" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-LME8631PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM30530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM15010" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMA8601" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1309" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-LM15010PNQ.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1310" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL55220" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL79220" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY55350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY55845" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYF9845" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYG6845" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM55350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM55530" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM79350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA9350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LL55350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM55350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM79350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMG4604" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1307" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1308" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1330" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1347" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALY55350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALY55350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALYF9845.1500" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-LM55350" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1321" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1329" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1345" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1227" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1227-A" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1233" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1240" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1248" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1249" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1251" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1252" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1253" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1255" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1256" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1257" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1259" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1260" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1270" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1276" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1281" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1285" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TT39580" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TT83490" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TT92490" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TTM83490" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1298" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1306" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1318" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1326" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1338" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR54220" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR54450" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR54520" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "Silz Release Paper" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FTYR-85-1020" 
+"1.02" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ACETATE-50" 
+"1.02" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AJ113-M" 
+"1.534" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1592-M" 
+"1.534" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0304-M" 
+"1.534" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PVC100" 
+"1.02" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW4200C" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0153" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "09106-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "A03853-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "A30575-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ACV921-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ADJ887-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AG404" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AJC340" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AJL860-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AKG050-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AKW169-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALJ318-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY438-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF795-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMP496" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "APA496" 
+"1.09" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AQ449" 
+"1.39" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AQ486" 
+"1.39" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BA1201" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BA1201-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BA1219" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BA2118" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0064" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0064-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0074" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0105" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0109" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0116Q" 
+"1.065" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0146" 
+"1.07" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0148" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0166-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0227" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW5555" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW5566" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW6024C" 
+"1.065" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW7510-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW7777" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW9320" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW9328" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW9666" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW9687-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MW1614-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "NW0031-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SB3495" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SE0704" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SE2759" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SJ2340" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SS6548" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SU1729-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SU4384-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SU4749-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SW0010-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0035" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "VA4208" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "VA4216" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "XP55800" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "05067" 
+"1.524" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AN061" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ANS249" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "APA231" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0153-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0242" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW9664" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MZ0064" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MZ0085" 
+"1.06" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MZ1057" 
+"1.065" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MZS235" 
+"1.07" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SR8802" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "74039-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "75233-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "75616-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "75617-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "75889-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFC303" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFR888" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AGM128" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC495" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0062-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0144" 
+"1.07" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0199-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0223" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW0230" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BW7513" 
+"1.06" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MW2627" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MW2627-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ST9509" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ST9509-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SV4011" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0006-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0025-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0033-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0038" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0038-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0039" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0039-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0045-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0046" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0046-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0047" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0047-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0048" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0048-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0053" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0053-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0054" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0054-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0057" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0057-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SY0061-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SYS006-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "VA5056" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "18884-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "1FR-N00927" 
+"1.065" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AA1179" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AA1476" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AKU834-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALV434" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW0271" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW0331" 
+"1.525" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW0331-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1111-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW3207-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW3209-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW3247-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW3296" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW4200C-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWP037" 
+"1.06" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWP039" 
+"1.06" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWP040" 
+"1.06" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWS135" 
+"1.07" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWS135-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWS379" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SS4915" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SV3476-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "APL336" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "A27738" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "18328-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "A17820-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AA1609-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ADC396-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALR329" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1107-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1416-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1577" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1577-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1583" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1583-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW1592" 
+"1.07" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AW3271-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWP026" 
+"1.06" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWP038" 
+"1.06" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWS172-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWS536" 
+"0.51" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AWS536-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SU5209-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MW0035-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MW0060" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "18327-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "NW1808" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "XHA7653" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "XHA7664" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "Y4331BB" 
+"0.062" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "Y4331B-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "Y4373W" 
+"0.062" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "Y4373W-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "Y5660H-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFB6140G" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFB6180G" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFB6612G" 
+"0.8" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFB6640G" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFB8640G" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AFB8680G" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "D/S Tape" 
+"1.05" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "F4370A" 
+"0.094" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FM2132" 
+"0.508" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FM464" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FM467" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FM468" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FM503L" 
+"1.23" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FM7660" 
+"0.9" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FM7664" 
+"0.8" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT0409" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT117" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT2018" 
+"1.02" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT21012" 
+"1.07" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT239" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT310" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT397" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT5135" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT5212" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT566" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT5714B" 
+"1.23" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT666" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7345H" 
+"1.235" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7366" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7367" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7369" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7377" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7378H" 
+"1.235" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7951" 
+"1.02" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT7952" 
+"1.57" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT8260" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT8716I" 
+"1.23" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT8716P" 
+"1.24" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FT9302 SF" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "FTY3102" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "HPA 2922" 
+"0.4" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "HPA9320G" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4133F-M" 
+"0.52" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4139F-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4140" 
+"0.48" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4141L" 
+"0.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4142XL" 
+"0.52" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4143F" 
+"0.48" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4144F" 
+"0.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L4145F" 
+"0.52" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L6606F-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L6607F-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "L6680R-M" 
+"1.53" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MED 2190H" 
+"0.25" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MED 5580H" 
+"0.25" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MED 5581H" 
+"0.23" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MED 5583" 
+"0.22" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MED 5787H" 
+"0.25" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "R4360A" 
+"0.022" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "S0411" 
+"0.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "S4449 RH" 
+"0.031" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "S4453" 
+"0.031" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "S4453 RH" 
+"0.031" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "S5367G" 
+"1.005" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "MED 2191H" 
+"0.23" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 630000048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 630000079255" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 630010048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 630010079255" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 630220048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 630220079255" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674000048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 6740000487955" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674010048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674020048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 6740200487955" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674100048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674100048655" 
+"6.666666" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674110048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674120048255" 
+"20" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 674120048655" 
+"6.666666" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 67430004879165" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 67432004879165" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 6744000487955" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"LM" "M2" "RF 6744200487955" 
+"50" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL09010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL09010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL11010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL11010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL17124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL17124.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL55220GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL55220PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL78122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL78220-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL78220-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL78220-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL78220-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL79220GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89350.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AL89350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2030PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2050-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2080GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2080PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA2350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALA5220GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALB0123.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALB6530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALD6240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALD6240.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALD6240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALF6845PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALF6845.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALF6845PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALG1601.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY55845PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY89240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY89350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY89350.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALY89350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYD6240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYD6845PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYF9845.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "ALYG6845.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09011GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09011-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09070GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM09070PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11011GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11070GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11070PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11610PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM11610GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060(INT)GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060GBGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060GB.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13060GB.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM13450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM16450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17010-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17050GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17050PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17050-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17090GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17090-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17124.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17240-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM17450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM18450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM18450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM18451GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM18451PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM21450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM21450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM21450(INT)GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM21480GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM22280GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM22300GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM25050GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM30530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM32060GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM32060PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM35350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM35350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM41122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM44530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM47290GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM47290PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM55350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM55350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM55350-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM55350-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM55530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM58330GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM60240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM60440GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM60450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM63122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM65241GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM65241GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM72122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM74450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM74451GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM76530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM79350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM79350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM86530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM88450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM88480GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89122PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89240-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89240-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89241GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89241PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89351PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89400GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89480PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM89480GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM90550GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM95550GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM99122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM99450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA1450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2030GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2030PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2030-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2030-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2050GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2050PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2080GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2080PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2451GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA2451PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA4530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA4570GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA5050GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA5050PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA7080GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA7080PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMA9350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0122PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0123GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0450.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB0450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB1122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB1122PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB2124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB2350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB2350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB3220GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB4290PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB4350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB4350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB5390GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMB5390PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC3124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC4530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5050GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5090GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMC5240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD0241GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6122PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6150GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6241PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6400GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6400PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6450.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6480PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6480GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6480.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMD6480PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME0124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME1530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME3124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME4010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AME6350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF0601GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF0610GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF0610PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF1601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF1601GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF1601.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF1601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF9601GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMF9601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMG1601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMG1601GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMG1601.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMG1601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY16122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY17010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY17124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMY89240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYA8601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYB0123GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYB1122PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AMYC5124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BL17122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BL17122PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BLA4570GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BLB0123GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BLB0605GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BM13240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BM17123GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BM17123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB0123GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB1123GGN" 
+"0.92" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB1123PNQ" 
+"0.92" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB1450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB1450CGGN" 
+"0.92" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "BMB7240GGN" 
+"0.92" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CLB0123GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CLB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM13240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM13604GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM39606PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM39606GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CM99450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMA2080GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMB0440GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMB1122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "CMD4607GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LL55350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LL89350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LLB0125GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LLB0125PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LLD6350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM15010GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM15010PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM17124GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM17124.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM17124PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM22122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM55350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM55350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM74450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM74450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM74450-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM74450-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM74451GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM79350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM79350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM79350-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LM79350-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMA8601GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMA8601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB0123GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB0123.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB0123PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB5451GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMB5451PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMD5610PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMD6050-1ST-GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMD6050-1ST-PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMD6240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMD6240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME7606GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME8631PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME8631.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME8631PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME9530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LME9634PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMG4604GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMG4604PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMG5602GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "LMG5602PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTA2450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTA2450PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTF3601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTF3601GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTF3601.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "PTF3601PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SL17122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SL99530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SLB8530GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SM13240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SM13240PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SM17122GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SMB1450GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SMB1450CGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "SMB7240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TL09260GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TL09261GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TLG0470GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM09260GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM11510GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM35260GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TMD0260GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1157GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1158GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1160GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1161GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1165GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1167PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1184PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1203PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1204GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1204PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1218GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1218PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1219GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1222GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1227GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1227-AGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1228GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1229GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1229PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1229.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1230GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1231GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1232GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1233GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1234GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1235GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1236GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1237GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1238GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1239GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1240GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1241GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1241PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1241AGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1242GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1242PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1243GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1244GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1246GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1246PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1247GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1248GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1249GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1250GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1251GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1252GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1253GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1254GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1255GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1256GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1257GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1259GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1260GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1263GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1263PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1264GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1265GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1266GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1268GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1269GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1270GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1270PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1271GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1271PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1272GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1275GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1275PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1276GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1278GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1281GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1284GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1285PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1286GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1286PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1287GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1288GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1288PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1289GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1290GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1291GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1292PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1293PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1295GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1296GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1297GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1300PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1300PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1301.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1303GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1304GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1305GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1305PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1307GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1307PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1308GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1309PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1310PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1311.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1314GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1315GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1316PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1317PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1319PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1320PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1321PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1322GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1322GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1323GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1324PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1325PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1327GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1327PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1328GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1329GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1330GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-1331GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1332GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1333GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1334GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1335PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1336GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1336PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1339 AGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1339 BGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1339 CGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "tr-1340GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1341GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1342PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1343PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1344PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1345GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1346.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1347.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1349GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1348PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1351GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1352GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1353GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1354GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1355PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1357.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1358.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1359GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-1360GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-ALY55350PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17010-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17050-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17090-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AM17240-ORGGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMA2030GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMA2050GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMA2050PNQ" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-AMA2050.1500PNQ" 
+"1.5" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TR-LM55350GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "AM01540GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "TM82480GGN" 
+"1" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "17288" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "18329" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "18884" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "19161" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "40443" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "40900" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "41100" 
+"1.219" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "41196" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "53282" 
+"1.524" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "72823" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "72825" 
+"1.524" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "72826" 
+"1.524" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "73311" 
+"1.524" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "75233" 
+"1.524" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "75728" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "75943" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "7609" 
+"1.524" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "76656" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "76660" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "76995" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "76997" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "77008" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "77138" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "77536" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "77955" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "77977" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78027" 
+"0.609" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78130" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78194" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78195" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78196" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78198" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78199" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78385" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78386" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78387" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78599" 
+"1.371" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78654" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78875" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "78876" 
+"0.99" 
+. 
+@@end
+@@batchload ppummt.p
+"M2" "LM" "9106" 
+"1.371" 
+. 
+@@end

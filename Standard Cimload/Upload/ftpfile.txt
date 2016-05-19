@@ -1,0 +1,7 @@
+linas
+ujmrfv1!
+ascii
+prompt off
+cd /home/linas/EB21IND
+mput .\11*.cim                                                    
+quit
